@@ -34,7 +34,7 @@ Anh có quá khứ khá tệ về tiền. Nên anh thật sự rất ám ảnh v
 
 [2] Hiện tại anh đã cắt đứt hoàn toàn mxh với nyc nhưng còn chừa lại 1 kênh liên lạc zalo với nyc gần nhất vì Do là lúc trước anh đang nhạy cảm về tiền nên anh chưa kể với em chuyện này (Vì nếu anh kể ra và thực tế lúc đó anh cũng không có tiền em có thể sẽ có khả năng thôi nha là sẽ nghĩ anh là người thực dụng, tính toán, chia tay đòi tiền) nhưng sau đây anh xin giải thích lý do:
 Nyc còn nợ anh 10tr đang trả dần -> vì sao anh lại muốn đòi số tiền này thì có 2 phần (Tất nhiên là không phải mấy cha nội keo kiệt bủng xỉn trên mạng chia tay đòi quà):
-1: Tiền cọc nhà: lúc anh đi thì thằng khứa kia chuyển vào ở. Nếu anh k đòi tiền này thì khác gì anh cọc tiền nhà cho thg đó ở ?
+1: Tiền cọc nhà: lúc anh đi thì thằng khứa kia chuyển vào ở. Nếu anh k đòi tiền này thì khác gì anh cọc tiền nhà cho thg đó ở ?. Trong khi lúc đó anh phải cực khổ chạy đầu này đầu kia mượn tền cọc trọ mới để không phải ở ngoài đường.
 2: Tiền mua máy giặc: anh vừa mua máy giặt mới được 1 tháng thì chia tay, khứa đó nhảy vào liền. Nếu anh không đòi khoảng tiền này thì khác gì anh mua của hồi môn để lại cho 2 người đó ???. Phải chi máy mua được 1 năm thì anh cho luôn chả thèm đòi làm gì. Mà đây là tiền anh thắt lưng buộc bụng để mua
 Anh không phải là người đi tính toán mấy chuyện này. Nếu như khứa đó k vô ở thì anh chả thèm tính toán đòi làm gì cho mệt đầu.
 Hiện tại thì giao tiếp qua zalo thì chỉ là những bill chuyển tiền, và anh báo số tiền còn lại, ngoài ra không còn nhắn gì khác. Anh đang chờ trả đủ để anh block phát cho anh khỏe người.
