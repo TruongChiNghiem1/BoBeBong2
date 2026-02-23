@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Anh va Em - Anh 2</title>
+  <desc id="desc">Anh mau de thay bang anh that cua hai ban.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffd8c7"/>
+      <stop offset="100%" stop-color="#ffe8ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <rect x="90" y="100" width="620" height="760" rx="36" fill="#fff7ef" opacity="0.75"/>
+  <g fill="#ff9aa2" opacity="0.7">
+    <circle cx="180" cy="220" r="22"/>
+    <circle cx="620" cy="750" r="22"/>
+    <circle cx="620" cy="220" r="14"/>
+    <circle cx="180" cy="750" r="14"/>
+  </g>
+  <path d="M400 520c34-68 146-50 146 33 0 62-73 106-146 173-73-67-146-111-146-173 0-83 112-101 146-33z" fill="#ffffff" opacity="0.93"/>
+  <text x="400" y="700" text-anchor="middle" fill="#865058" font-size="44" font-family="Verdana, sans-serif">Anh 2 cua chung minh</text>
+  <text x="400" y="760" text-anchor="middle" fill="#865058" font-size="28" font-family="Verdana, sans-serif">Thay bang anh that cua hai ban</text>
+</svg>

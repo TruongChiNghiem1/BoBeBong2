@@ -1,0 +1,82 @@
+﻿<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nhật Ký Tình Yêu</title>
+  <meta name="description" content="Trang thư tay dài kiểu tờ báo, mỗi đoạn có 1-2 ảnh kỷ niệm của hai bạn.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="pre-open">
+  <section id="introGate" class="intro-gate">
+    <div class="intro-card">
+      <p class="intro-kicker">Hôm trước anh viết thư<br>Hôm nay anh viết báo để đọc không chán nhé</p>
+      <h2>Nhấn để deeptalk cùng anh</h2>
+      <button id="openLetterBtn" type="button">Xem</button>
+    </div>
+  </section>
+
+  <div id="siteContent" hidden>
+    <div class="read-progress" aria-hidden="true">
+      <span id="readBar"></span>
+    </div>
+
+    <div class="ambient-bg" aria-hidden="true">
+      <span class="orb orb-a"></span>
+      <span class="orb orb-b"></span>
+      <span class="orb orb-c"></span>
+    </div>
+
+    <div class="side-ambient" aria-hidden="true">
+      <div class="side-column left">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <div class="side-column right">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+
+    <div class="bg-shape one"></div>
+    <div class="bg-shape two"></div>
+
+    <main class="paper-wrap">
+    <article class="paper-card">
+      <header class="paper-header reveal">
+        <p class="kicker">Gửi người anh thương</p>
+        <h1>Deeptalk cùng anh</h1>
+        <p class="subhead">
+          Bản viết này hơi dài, nhưng mỗi đoạn đều là đều là mãnh ghép tâm tư của anh.
+        </p>
+        <div class="meta-row">
+          <span>Ngày viết: <strong>Thứ Hai, 23/02/2026</strong></span>
+        </div>
+      </header>
+
+      <section id="storyList" class="story-list" aria-label="Nội dung thư"></section>
+    </article>
+    </main>
+
+    <div id="lightbox" class="lightbox" aria-hidden="true">
+      <button id="closeLightbox" class="close-lightbox" type="button" aria-label="Đóng ảnh">×</button>
+      <img id="lightboxImage" src="" alt="">
+      <p id="lightboxCaption"></p>
+    </div>
+  </div>
+
+  <audio id="bgmPlayer" preload="auto"></audio>
+  <script src="script.js"></script>
+</body>
+</html>

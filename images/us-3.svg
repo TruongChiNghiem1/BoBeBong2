@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Anh va Em - Anh 3</title>
+  <desc id="desc">Anh mau de thay bang anh that cua hai ban.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffe9c8"/>
+      <stop offset="100%" stop-color="#ffd8de"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <g opacity="0.65">
+    <path d="M110 190c90-90 220-20 220 70s-130 190-220 260c-90-70-220-170-220-260s130-160 220-70z" fill="#fff2f2" transform="translate(290 20) scale(0.55)"/>
+    <path d="M110 190c90-90 220-20 220 70s-130 190-220 260c-90-70-220-170-220-260s130-160 220-70z" fill="#fff2f2" transform="translate(70 120) scale(0.5)"/>
+  </g>
+  <rect x="120" y="160" width="560" height="680" rx="44" fill="#fffdf8" opacity="0.82"/>
+  <text x="400" y="430" text-anchor="middle" fill="#8c5961" font-size="58" font-family="Verdana, sans-serif">Love Note</text>
+  <text x="400" y="500" text-anchor="middle" fill="#8c5961" font-size="40" font-family="Verdana, sans-serif">Anh 3 cua chung minh</text>
+  <text x="400" y="570" text-anchor="middle" fill="#8c5961" font-size="28" font-family="Verdana, sans-serif">Thay bang anh that cua hai ban</text>
+</svg>
