@@ -7,7 +7,7 @@
   "Một câu em muốn nói thật với anh hôm nay là gì?"
 ];
 
-const playlist = ["music/1.mp3", "music/2.mp3"];
+const playlist = ["music/1.mp3", "music/2.mp3", "music/3.mp3", "music/1.mp3", "music/2.mp3", "music/3.mp3"];
 
 // Nhập nội dung thư ở đây. Mỗi đoạn cách nhau bằng 1 dòng trống.
 // Có thể thêm [1] hoặc [2] ở đầu đoạn để ép số ảnh cho đoạn đó.
@@ -18,30 +18,32 @@ const letterTextInput = `
 Hổm rài tết nhất vui vẻ nên anh k tiện nói nè
 Thời gian qua thì k ngày nào mà anh k suy nghĩ về chuyện của mình hết.
 Hôm trước tự nhiên em im lặng dùng chiến thuật ít giao tiếp để rời xa anh dần, sau đó thì nhắn dừng lại với anh, nhưng khi hỏi lại thì em không giải thích lý do cho anh được, thì anh đã biết là trong chuyện của mình em đã kể cho một người nào đó và họ khuyên em rời xa anh.
-Lúc trước em có nói với anh là: "Dù có chuyện gì xảy ra thì phải luôn tin em đầu tiên" và anh luôn nghe và lúc nào anh cũng tin em đầu tiên khi có chuyện xảy ra. Vậy mà với anh em lại không tin anh mà em lại tin một người nào đó chưa từng nói chuyện thậm chí còn chưa gặp anh ngoài đời, họ biết những gì về anh. Và họ phán xét giống như là họ ở chung với anh từ nhỏ rồi em tin họ. Nếu đổi lại là anh đi tin người ta như vậy thì cảm giác của em sẽ như thế nào.
+Lúc trước em có nói với anh là: "Dù có chuyện gì xảy ra thì phải luôn tin em đầu tiên" và anh luôn nghe và lúc nào anh cũng tin em đầu tiên khi có chuyện xảy ra. 
+Vậy mà với anh em lại không tin anh mà em lại tin một người nào đó chưa từng nói chuyện thậm chí còn chưa gặp anh ngoài đời. Và họ phán xét giống như là họ biết hết tất cả về anh rồi em tin họ. Nếu đổi lại là anh đi tin người ta như vậy thì cảm giác của em sẽ như thế nào.
 Anh chỉ buồn vì anh nghĩ nếu có chuyện gì đó làm em lăn tăn, giá như em nói thẳng với anh một lần, anh tin là tụi mình có thể ngồi lại với nhau.
 
-[2] Thời gian quen em vừa qua anh cảm thấy em bị thiệt thòi rất nhiều thứ. 
-Vì lúc anh quen em thì lúc đó tài chính của anh đang khá khó khăn, làm cho em bị thiệt thòi nhiều.
+[2] Thời gian quen em vừa qua anh cảm thấy em bị thiệt thòi rất nhiều thứ.  Vì lúc anh quen em thì lúc đó tài chính của anh đang khá khó khăn, làm cho em bị thiệt thòi nhiều.
 Có nhiều thứ anh biết em thích nhưng anh chưa thể mua liền cho em được, anh thấy rất là áy náy và anh luôn note lại những thứ mà em thích để khi kinh tế anh ổn định như hiện tại anh sẽ mua cho em.
-Em có biết vì sao ghé tiệm trà sữa thì anh lại mua trà k, vì nó là ly rẻ nhất, Rau má nguyên chất là rẻ nhất, Anh biết em rất thích home đầu tiên nhưng do home đầu có giá gấp đôi những home mình hay đi nên lúc đó anh đang khó khăn nên anh chưa thể thuê home đó cho mình đi được... có những em dặn anh mua, những cái anh biết em sẽ cần anh rất muốn mua nhưng anh lại bất lực không mua được vì số tiền anh đang có không đủ. Và còn rất nhiều chuyện khác anh nghĩ em tinh tế và đủ trãi nghiệm nên chắc cũng đã nhận ra được.
+Em có biết vì sao ghé tiệm trà sữa thì anh lại mua trà k, vì nó là ly rẻ nhất, Rau má nguyên chất là rẻ nhất, Anh biết em rất thích home đầu tiên nhưng do home đầu có giá gấp đôi những home mình hay đi nên lúc đó anh đang khó khăn nên anh chưa thể thuê home đó cho mình đi được... có những thứ em dặn anh mua, những cái anh biết em sẽ cần, anh rất muốn mua nhưng anh lại bất lực không mua được vì số tiền anh đang có không đủ. Và còn rất nhiều chuyện khác anh nghĩ em tinh tế và đủ trãi nghiệm nên chắc cũng đã nhận ra được.
 
-[2] Trong mindset của anh con gái cưng người ta đang ăn sung mặc sướng muốn ăn gì mua gì mình thích cũng được tự nhiên có thằng ất ơ nào đó lại và bắt không được mua, phải sống tiết kiệm lại chịu khổ cùng anh. TRỜI TRỜI ĐÂU RA DỊ, BỊ KHÙNG HẢ TRỜI.
-Anh muốn người con gái đó đến với anh ngoài những điều hiện tại cổ đang có thì phải được thêm, muốn gì cũng không phải lo về giá cả. vì anh biết mọi điều hạnh phúc đều phải có tiền. Chẳn hạn như homestay, đi ăn đi chơi,… tất cả đều phải có tiền mới vui được, muốn ăn muốn chơi gì thì cũng phải có tiền để không phải đứng trước quầy hàng đắng đo là mình có đủ tiền để vào hay không. Anh sẽ không bao giờ để vợ và con của mình phải chịu khổ hay rơi vào cảnh thiếu thốn kể cả tình thương, niềm vui lẫn tiền bạc
+[1]
+
+[2] Trong mindset của anh: con gái cưng người ta đang ăn sung mặc sướng muốn ăn gì mua gì mình thích cũng được tự nhiên có thằng ất ơ nào đó lại và bắt không được mua, phải sống tiết kiệm lại chịu khổ cùng anh. TRỜI TRỜI ĐÂU RA DỊ, BỊ KHÙNG HẢ.
+Anh muốn người con gái đó đến với anh ngoài những điều hiện tại cổ đang có thì phải được thêm, muốn gì cũng không phải lo về giá cả. vì anh biết mọi điều hạnh phúc đều phải có tiền. Chẳn hạn như homestay, đi ăn đi chơi,… tất cả đều phải có tiền mới vui được, muốn ăn muốn chơi gì thì cũng phải có tiền để không phải đứng trước quầy hàng đắng đo là mình có đủ tiền để vào hay không hay buộc phải chọn những nơi có giá rẻ mà không có lựa chọn. Anh sẽ không bao giờ để vợ và con của mình phải chịu khổ hay rơi vào cảnh thiếu thốn kể cả tình thương, niềm vui lẫn tiền bạc
 Anh có quá khứ khá tệ về tiền. Nên anh thật sự rất ám ảnh về tiền. Những điều này rất nhạy cảm và thầm kính của anh. Anh chưa hề nói nó với một ai ngoài em. Anh vẫn đang tin tưởng em sẽ k kể cho người khác
 
 [2] Hiện tại anh đã cắt đứt hoàn toàn mxh với nyc nhưng còn chừa lại 1 kênh liên lạc zalo với nyc gần nhất vì Do là lúc trước anh đang nhạy cảm về tiền nên anh chưa kể với em chuyện này (Vì nếu anh kể ra và thực tế lúc đó anh cũng không có tiền em có thể sẽ có khả năng thôi nha là sẽ nghĩ anh là người thực dụng, tính toán, chia tay đòi tiền) nhưng sau đây anh xin giải thích lý do:
 Nyc còn nợ anh 10tr đang trả dần -> vì sao anh lại muốn đòi số tiền này thì có 2 phần (Tất nhiên là không phải mấy cha nội keo kiệt bủng xỉn trên mạng chia tay đòi quà):
-1: Tiền cọc nhà: lúc anh đi thì thằng khứa kia chuyển vào ở nếu anh k đòi tiền này thì khác gì anh cọc tiền nhà cho thg đó ở ?
+1: Tiền cọc nhà: lúc anh đi thì thằng khứa kia chuyển vào ở. Nếu anh k đòi tiền này thì khác gì anh cọc tiền nhà cho thg đó ở ?
 2: Tiền mua máy giặc: anh vừa mua máy giặt mới được 1 tháng thì chia tay, khứa đó nhảy vào liền. Nếu anh không đòi khoảng tiền này thì khác gì anh mua của hồi môn để lại cho 2 người đó ???. Phải chi máy mua được 1 năm thì anh cho luôn chả thèm đòi làm gì. Mà đây là tiền anh thắt lưng buộc bụng để mua
 Anh không phải là người đi tính toán mấy chuyện này. Nếu như khứa đó k vô ở thì anh chả thèm tính toán đòi làm gì cho mệt đầu.
-Nếu em cảm thấy không thoải mái về vấn đề này thì anh sẽ block và không cần số tiền đó nữa
 Hiện tại thì giao tiếp qua zalo thì chỉ là những bill chuyển tiền, và anh báo số tiền còn lại, ngoài ra không còn nhắn gì khác. Anh đang chờ trả đủ để anh block phát cho anh khỏe người.
-Dành tất cả chân thành để đổi lại cặp sừng. Đau lắm em phải mất một thời gian dài mới vượt qua được, cũng giống như trãi nghiệm của em. Đến hiện tại em có tư tưởng hay suy nghĩ nào về việc quay lại không, làm gì có, và anh cũng vậy đó, chưa bao giờ có tư tưởng quay lại với nyc, cảm giác tưởng tượng thôi là cũng đủ thấy sợ rồi và Anh sẽ không bao giờ làm người khác phải chịu nỗi đau như anh đã từng chịu.
+Nếu em cảm thấy không thoải mái về vấn đề này thì anh sẽ block và không cần số tiền đó n
+Dành tất cả chân thành để đổi lại cặp sừng. Đau lắm em. Phải mất một thời gian dài mới vượt qua được, cũng giống như trãi nghiệm của em. Đến hiện tại em có tư tưởng hay suy nghĩ nào về việc quay lại không, làm gì có, và anh cũng vậy đó, chưa bao giờ có tư tưởng quay lại với nyc, cảm giác tưởng tượng thôi là cũng đủ thấy sợ rồi và Anh sẽ không bao giờ làm người khác phải chịu nỗi đau như anh đã từng chịu.
 Anh với em có trãi nghiệm khá giống nhau nên những quyết định, những mong muốn tư tưởng có thể sẽ giống nhau, em sẽ không làm điều tương tự với người khác và anh cũng sẽ không bao giờ làm như vậy. Nếu anh muốn quay lại hay có ý gì đó với nyc thì anh nói với em làm gì, tâm lý là sẽ giấu càng kỹ hơn chứ không ai mà đi nói với em biết như vậy. 
 Anh đâu có rãnh đâu mà đi thế chổ của Phật. Họ đối xử vậy với anh rồi anh đối xử tốt lại rồi chờ một ngày nào đó quay lại hả ???. Trời trời. Gặp em em có vậy không. 
 
-[2] Lần tới gặp em anh xin phép được nhập tất cả mxh, zalo gồm acc chính và acc clone, và anh sẽ xác thực điện thoại để khi em có qua mxh của anh thì anh cũng sẽ không biết, nên em cứ yên tâm. Anh biết tâm lý stalk là sẽ không muốn cho người khác biết mà. Em chỉ cần nhấn vào tài khoản của anh là qua được. Vì mail của anh có xác thực ngân hàng, chứng khoán,... nên anh bật bảo mật khá cao nên gửi tk mk trực tiếp em cũng sẽ khó vào nên anh xin phép gặp em anh tự nhập vào nhé. Ở đây không phải là bắt em kiểm soát anh hay phải trông giữ anh mà là anh muốn em sẽ cảm thấy yên tâm hơn, tránh bị những tác nhân bên ngoài làm ảnh hưởng.
+[2] Lần tới gặp em anh xin phép được nhập tất cả mxh, zalo gồm acc chính và acc clone, và anh sẽ xác thực điện thoại để khi em có qua mxh của anh thì anh cũng sẽ không biết, nên em cứ yên tâm. Anh biết tâm lý stalk là sẽ không muốn cho người khác biết mà. Em chỉ cần nhấn vào tài khoản của anh là qua được. Vì mail của anh có xác thực ngân hàng, chứng khoán,... nên anh bật bảo mật khá cao nên gửi tk mk trực tiếp em cũng sẽ không vào được nên anh xin phép gặp em anh tự nhập vào nhé. Ở đây không phải là bắt em kiểm soát anh hay phải trông giữ anh mà là anh muốn em sẽ cảm thấy yên tâm hơn, tránh bị những tác nhân bên ngoài làm ảnh hưởng.
 
 [2] À chế 3 có nói là chế 3 thích em lắm và học được từ em nhiều lắm á. Đặc biệt là cách giao tiếp.
 Đến hiện tại kinh tế anh đang ổn định trở lại, số tiền anh đầu tư cũng đang sinh lời ổn định, mọi thứ đang bắt đầu ổn trở lại thì em lại rời đi.
@@ -82,13 +84,14 @@ const storyImages = [
   { src: "images/1.JPG"},
   { src: "images/2.png"},
   { src: "images/3.png"},
-  { src: "images/4.png"},
+  { src: "images/ghichu.jpg"},
+  { src: "images/4.PNG"},
   { src: "images/5.JPEG"},
   { src: "images/6.JPG"},
   { src: "images/7.JPG"},
   { src: "images/8.JPEG"},
   { src: "images/9.JPG"},
-  { src: "images/10.png"},
+  { src: "images/10.PNG"},
   { src: "images/11.JPEG"},
   { src: "images/12.png"},
   { src: "images/13.JPEG"},
